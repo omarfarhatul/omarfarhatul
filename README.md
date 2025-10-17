@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Omar Farhatul
 
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently learning React.js, NodeJs

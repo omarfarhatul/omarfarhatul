@@ -1,5 +1,7 @@
-## Hi 👋, I'm Omar Farhatul
-**🚀 Front-End Developer || 🌱 Lifelong Learner
+# <h1 align="center">Hi 👋, I'm Omar Farhatul</h1>
+
+<h3 align="center">🚀 Front-End Developer || 🌱 Lifelong Learner</h3>
+
 
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently learning React.js, NodeJs

@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Omar Farhatul
+## Hi 👋, I'm Omar Farhatul
+**🚀 Front-End Developer || 🌱 Lifelong Learner
 
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently learning React.js, NodeJs
@@ -17,6 +18,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=omarfarhatul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omarfarhatul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarhatul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omarfarhatul&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
